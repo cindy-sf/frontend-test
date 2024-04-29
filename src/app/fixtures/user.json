@@ -1,0 +1,14 @@
+{
+  "status": 200,
+  "data": {
+    "user": {
+      "id": "507f1f77bcf86cd799439011",
+      "firstName": "Jamie",
+      "lastName": "Doe",
+      "gender": "M",
+      "email": "jamie.doe@example.com",
+      "subscriptions": ["RIGHT_1"]
+    }
+  },
+  "error": null
+}
